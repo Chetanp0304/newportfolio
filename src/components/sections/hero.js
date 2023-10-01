@@ -64,13 +64,12 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <>
-      <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
+     <p>
+        I’m a Undergraduate at{' '}
+        <a href="http://www.unipune.ac.in/" target="_blank" rel="noreferrer">
+          Savitribai Phule Pune Univrsity pursuing BE in Computer Engineering Who Enjoys 
+          Developing and Designing things.
+      </p>
         .
       </p>
     </>
